@@ -1,0 +1,12 @@
+{
+  "name": "jobboard",
+  "version": "1.0.0",
+  "description": "JobBoard - Freelance Marketplace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["jobboard", "freelancer", "marketplace"],
+  "author": "Farzad",
+  "license": "ISC"
+}
